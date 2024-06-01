@@ -1,4 +1,6 @@
-# CNN Image Resolution Enhancement
+![image](https://github.com/302cu/CNN-Image-Resolution-Enhancement/assets/90270758/710f06d1-aaa8-44d4-ab1e-5f71eb6680f8)# CNN Image Resolution Enhancement
+
+![image](https://github.com/302cu/CNN-Image-Resolution-Enhancement/assets/90270758/349b3bee-b5fd-4663-8f7a-9e17ac9b2532)
 
 ## Project Overview
 This project explores the application of Convolutional Neural Networks (CNNs) using Keras to enhance the resolution of images. It specifically investigates the use of convolutional transpose layers for upscaling images in an experimental setup. The aim was to assess the effectiveness of this approach compared to other advanced models like diffusion models and GANs.
