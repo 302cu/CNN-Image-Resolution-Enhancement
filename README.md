@@ -1,4 +1,4 @@
-![image](https://github.com/302cu/CNN-Image-Resolution-Enhancement/assets/90270758/710f06d1-aaa8-44d4-ab1e-5f71eb6680f8)# CNN Image Resolution Enhancement
+# CNN Image Resolution Enhancement
 
 ![image](https://github.com/302cu/CNN-Image-Resolution-Enhancement/assets/90270758/349b3bee-b5fd-4663-8f7a-9e17ac9b2532)
 
